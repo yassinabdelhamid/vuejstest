@@ -1,0 +1,18 @@
+/* li {
+    list-style:none;
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    list-style-type:none;
+} */
+
+.strikeout {
+    text-decoration: line-through;
+    color: #BBC2CC;
+}
+
+.priority {
+    color: red;;
+}
